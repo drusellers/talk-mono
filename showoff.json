@@ -1,0 +1,10 @@
+{
+  "name" : "talks",
+  "description" : "running .net on NOT windows",
+  "sections" : [
+      {"section" : "intro" }
+    , {"section" : "about_me" }
+    , {"section" : "net_arch" }
+    , {"section" : "demo"}
+  ]
+}
